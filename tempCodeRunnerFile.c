@@ -1,0 +1,1 @@
+gcc main.c main_menu_entry.c product.c utils.c admin.c user.c auth.c stockcontrol.h -o program -lsqlite3
